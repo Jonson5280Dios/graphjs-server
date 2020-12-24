@@ -21,7 +21,7 @@ GraphJS-Server does not rely on a third party HTTP Server such as [NGINX](https:
 
 Heroku is popular cloud provider by Salesforce. To install, just click the button below, and when asked, fill in the form with your email (you don't need to touch any other fields):
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phonetworks/graphjs-server/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jonson5280Dios/graphjs-server/edit/master)
 
 > **WARNING for Heroku installations**: Since GrapheneDB (the cloud Neo4J provider) provision takes longer than app's initial build and launch, you will need to wait at least 5 minutes before testing your instance after setup. If it still doesn't work, try rebooting the app  after it's built for the first time. This is a common issue first-time Heroku installers are facing, please beware.
 
